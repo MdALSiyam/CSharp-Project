@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|c:\\users\\user\\desktop\\github\\exam-4\\final-4\\latif_1285124\\artgallerymanagementsln\\artgallerymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\entities\\artgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\entities\\artgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\entities\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\entities\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\factories\\basecustomerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\factories\\basecustomerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\factories\\customermanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\factories\\customermanagerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\factories\\generalcustomerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\factories\\generalcustomerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\factories\\regularcustomerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\factories\\regularcustomerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\managers\\generalcustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\managers\\generalcustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\managers\\icustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\managers\\icustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\managers\\regularcustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\managers\\regularcustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\artgallerymanagement\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE0756-AFD8-41F4-A816-35E79B027D6E}|ArtGalleryManagement\\ArtGalleryManagement.csproj|solutionrelative:artgallerymanagement\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegularCustomerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\RegularCustomerFactory.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Factories\\RegularCustomerFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\RegularCustomerFactory.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Factories\\RegularCustomerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:27:02.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneralCustomerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\GeneralCustomerFactory.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Factories\\GeneralCustomerFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\GeneralCustomerFactory.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Factories\\GeneralCustomerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:00:39.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerManagerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\CustomerManagerFactory.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Factories\\CustomerManagerFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\CustomerManagerFactory.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Factories\\CustomerManagerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:30:57.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseCustomerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\BaseCustomerFactory.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Factories\\BaseCustomerFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Factories\\BaseCustomerFactory.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Factories\\BaseCustomerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:49:18.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerType.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Entities\\CustomerType.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Entities\\CustomerType.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Entities\\CustomerType.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Entities\\CustomerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:32:42.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Program.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:28:09.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneralCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Managers\\GeneralCustomerManager.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Managers\\GeneralCustomerManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Managers\\GeneralCustomerManager.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Managers\\GeneralCustomerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:35:35.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Managers\\ICustomerManager.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Managers\\ICustomerManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Managers\\ICustomerManager.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Managers\\ICustomerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:33:54.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtGallery.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Entities\\ArtGallery.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Entities\\ArtGallery.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Entities\\ArtGallery.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Entities\\ArtGallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:31:23.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegularCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Managers\\RegularCustomerManager.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Managers\\RegularCustomerManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Managers\\RegularCustomerManager.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Managers\\RegularCustomerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:38:04.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:47:39.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "ArtGalleryManagement\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\GitHub\\Exam-4\\Final-4\\Latif_1285124\\ArtGalleryManagementSln\\ArtGalleryManagement\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "ArtGalleryManagement\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:43:46.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

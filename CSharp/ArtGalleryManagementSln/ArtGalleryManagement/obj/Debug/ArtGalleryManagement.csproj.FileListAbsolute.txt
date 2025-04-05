@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\CSharpProject\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSharpProject\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharpProject\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe.config
+C:\Users\user\Desktop\CSharpProject\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe
+C:\Users\user\Desktop\CSharpProject\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.pdb
+C:\Users\user\Desktop\CSharpProject\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.exe
+C:\Users\user\Desktop\CSharpProject\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.pdb
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe.config
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.pdb
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.AssemblyReference.cache
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.CoreCompileInputs.cache
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.exe
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.pdb
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe.config
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.pdb
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.AssemblyReference.cache
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.CoreCompileInputs.cache
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.exe
+E:\Siyam - 1285124\Round-61\C_Sharp\Siyam\Siyam\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.pdb
+C:\Users\user\Desktop\GitHub\Exam-4\Final-4\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe.config
+C:\Users\user\Desktop\GitHub\Exam-4\Final-4\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.exe
+C:\Users\user\Desktop\GitHub\Exam-4\Final-4\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\bin\Debug\ArtGalleryManagement.pdb
+C:\Users\user\Desktop\GitHub\Exam-4\Final-4\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHub\Exam-4\Final-4\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHub\Exam-4\Final-4\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.exe
+C:\Users\user\Desktop\GitHub\Exam-4\Final-4\Latif_1285124\ArtGalleryManagementSln\ArtGalleryManagement\obj\Debug\ArtGalleryManagement.pdb
