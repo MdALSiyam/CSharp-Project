@@ -1,10 +1,8 @@
-# C# Project
+## Project Outputs
 
-Here is the output of the application:
-
-![C# 1](https://github.com/MdALSiyam/CSharp-Project/blob/main/c1.png)
-![C# 2](https://github.com/MdALSiyam/CSharp-Project/blob/main/c2.png)
-![C# 3](https://github.com/MdALSiyam/CSharp-Project/blob/main/c3.png)
-![C# 4](https://github.com/MdALSiyam/CSharp-Project/blob/main/c4.png)
-![C# 5](https://github.com/MdALSiyam/CSharp-Project/blob/main/c5.png)
+![CSharp 1](c1.png)
+![CSharp 2](c2.png)
+![CSharp 3](c3.png)
+![CSharp 4](c4.png)
+![CSharp 5](c5.png)
 
